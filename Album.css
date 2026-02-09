@@ -1,0 +1,21 @@
+body{
+    font-family: monospace;
+    font-size: 20px;
+    background-image: url(./imgs/fast\ 4.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+h1, li{
+    color: white;
+}
+.menu{
+    background-color: red;
+}
+

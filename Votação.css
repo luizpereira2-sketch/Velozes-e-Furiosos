@@ -1,0 +1,70 @@
+body{
+   background-image: url("./imgs/fast-x-family-tree-04.webp");
+   text-align: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-family: monospace;
+   font-size: 20px;
+}
+#contato h2 {
+    text-align: center;
+    margin: 1.5rem 0;
+    color: white;
+    transform: translateY(180%);
+}
+
+form {
+    border: 3px solid black;
+    padding: 1rem 1.3rem 1.8rem;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    width: 400px;
+    margin: auto;
+    display: block;
+    transform: translateY(30%);
+}
+
+label.form-label {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-size: 0.85rem;
+}
+
+input.form-control,
+textarea.form-control {
+    font-family: monospace;
+    font-size: 0.9rem;
+    width: 100%;
+    padding: 8px 10px;
+    margin-bottom: 1rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+.btn-enviar {
+    background-color: blue;
+    border: none;
+    color: white;
+    font-family: monospace;
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+a {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 16px;
+    display: inline-block;
+}
+
